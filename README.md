@@ -2,7 +2,7 @@
 
 <img src="./banner.webp" width="100%" alt="Fahim Islam"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=640&lines=Turning+ASM+charts+into+silicon;FSM+%2B+Datapath%5B...%5D)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=640&lines=Turning+ASM+charts+into+silicon;FSM+%2B+Datap[...]
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fahim-islam15&label=Profile%20Views&color=00e5ff&style=flat-square)
 ![EEE](https://img.shields.io/badge/EEE-AIUB-0f4c5c?style=flat-square)
@@ -84,7 +84,7 @@ Third-year **Electrical & Electronic Engineering** student at **American Interna
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-0f4c5c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-islam-7530b2200/)
 
 ```
   always_ff @(posedge coffee) begin
