@@ -24,42 +24,6 @@ Third-year **Electrical & Electronic Engineering** student at **American Interna
 
 ---
 
-## 🧩 How I Write RTL
-
-Clean, explicit and predictable. FSM and datapath are always separated, with no implicit defaults.
-
-```systemverilog
-// Moore FSM — three-block style, named enums from a package
-typedef enum logic [1:0] {IDLE, RUN, DONE} state_t;
-
-state_t state_r, state_n;
-
-// 1) state register
-always_ff @(posedge clk or negedge rst_n)
-  if (!rst_n) state_r <= IDLE;
-  else        state_r <= state_n;
-
-// 2) next-state logic (comparator flags feed this, not inline expressions)
-always_comb begin
-  case (state_r)
-    IDLE:    state_n = start  ? RUN  : IDLE;
-    RUN:     state_n = k_last ? DONE : RUN;
-    DONE:    state_n = IDLE;
-    default: state_n = IDLE;
-  endcase
-end
-
-// 3) Moore outputs — every output assigned in every branch
-always_comb begin
-  case (state_r)
-    IDLE:    begin busy = 1'b0; done = 1'b0; end
-    RUN:     begin busy = 1'b1; done = 1'b0; end
-    DONE:    begin busy = 1'b0; done = 1'b1; end
-    default: begin busy = 1'b0; done = 1'b0; end
-  endcase
-end
-```
-
 > Counters live in separate sequential registers, outside the FSM.
 
 ---
@@ -115,7 +79,7 @@ end
 
 ## 🔭 What I'm Exploring
 
-- 🎓 Capstone project ideas in digital IC / FPGA
+- 🎓 Capstone project ideas 
 - 🏭 More tape-out-style ASIC flows on open-source PDKs
 - 📶 DSP-heavy FPGA pipelines (radar, radio, audio)
 
