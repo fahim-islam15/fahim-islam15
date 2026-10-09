@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f4c5c,100:00e5ff&height=200&section=header&text=Fahim%20Islam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20IC%20%C2%B7%20FPGA%20%C2%B7%20RTL%20Design&descAlignY=58&descSize=20" width="100%"/>
+<img src="./banner.svg" width="100%" alt="Fahim Islam"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=640&lines=Turning+ASM+charts+into+silicon;FSM+%2B+Datapath+%7C+Moore+machines;RTL+%E2%86%92+GDSII+on+sky130;Building+games%2C+radios+and+radar+on+FPGAs)](https://git.io/typing-svg)
 
