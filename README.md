@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Fahim Islam"/>
+<img src="./banner.webp" width="100%" alt="Fahim Islam"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=640&lines=Turning+ASM+charts+into+silicon;FSM+%2B+Datapath+%7C+Moore+machines;RTL+%E2%86%92+GDSII+on+sky130;Building+games%2C+radios+and+radar+on+FPGAs)](https://git.io/typing-svg)
 
@@ -132,6 +132,6 @@ end
   end
 ```
 
-<img src="./footer.svg" width="100%" alt=""/>
+<img src="./footer.webp" width="100%" alt=""/>
 
 </div>
