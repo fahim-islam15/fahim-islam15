@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-Third-year **Electrical & Electronic Engineering** student at **American International University-Bangladesh (AIUB)**, obsessed with how a few lines of RTL become real hardware.
+Third-year **Electrical & Electronic Engineering** student at **American International University-Bangladesh (AIUB)**, obsessed with  real hardware,analog design.
 
 - 🔬 Focus: **digital IC & FPGA design**
 - 🧠 Strong on **RTL / SystemVerilog**, **FSM-datapath methodology** and **DSP concepts**
@@ -106,8 +106,8 @@ end
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fahim-islam15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-islam15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
@@ -115,7 +115,7 @@ end
 
 ## 🔭 What I'm Exploring
 
-- 🎓 Capstone project ideas in digital IC / FPGA
+- 🎓 Capstone project ideas 
 - 🏭 More tape-out-style ASIC flows on open-source PDKs
 - 📶 DSP-heavy FPGA pipelines (radar, radio, audio)
 
